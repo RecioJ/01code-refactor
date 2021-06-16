@@ -12,7 +12,7 @@ a {
 p {
     font-size: 16px;
 }
-/* Settings for header*/
+/* styling for header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,7 +45,7 @@ p {
 body {
     background-color: #d9dcd6;
 }
-/* Image settings */
+/* Image styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -54,7 +54,7 @@ body {
     background-size: cover;
     background-position: center;
 }
-/* Main body settings */
+/* Main body styling */
 .content {
     width: 75%;
     display: inline-block;
@@ -78,17 +78,17 @@ body {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Left body image spacing */
+/* Left body image styling */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/* Right body image spacing */
+/* Right body image styling */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-/* Aside benefit settings */
+/* Aside benefit styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -99,30 +99,30 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Aside margin spacing */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Aside header spacing */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Aside image styling */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* Footer settings */
+/* Footer styling */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Footer font size */
 .footer h2 {
     font-size: 20px;
 }
