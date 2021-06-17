@@ -24,7 +24,7 @@ This task was focusing on the utilization of **Semantic Elements** while **Refac
 
 ## Example
 Here I condensed multiple lines into single lines for classes
-![css image](./assets/images/css.png)
+![image](./assets/images/css.png)
 
 ## Resources
 [W3schools](https://www.w3schools.com/html/)
