@@ -24,14 +24,14 @@ This task was focusing on the utilization of **Semantic Elements** while **Refac
 
 ## Example
 Here I condensed multiple lines into single lines for classes
-<img src= "https://github.com/RecioJ/01code-refactor/blob/main/assets/images/Css.png?raw=true" alt= "css screenshot">
+![css image](./assets/images/css.png)
 
 ## Resources
-<a href="https://www.w3schools.com/html/" target="_blank">W3schools</a>
+[W3schools](https://www.w3schools.com/html/)
 
-<a href="https://guides.github.com/features/mastering-markdown/" target="_blank">GitHub Guide</a>
+[GitHub Guide](https://guides.github.com/features/mastering-markdown/)
 #
 ## Author Links
-<a href="https://www.linkedin.com/in/johna-recio-83a024214/" target="_blank">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/in/johna-recio-83a024214/)
 
-<a href="https://github.com/RecioJ" target="_blank">GitHub</a>
+[GitHub](https://github.com/RecioJ)
