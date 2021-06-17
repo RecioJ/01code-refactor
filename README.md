@@ -1,5 +1,5 @@
 # Code Refactor
-## [Live Link](https://recioj.github.io/01code-refactor/)
+## <a href="https://recioj.github.io/01code-refactor/" target="_blank">Live Link</a>
 
 This task was focusing on the utilization of **Semantic Elements** while **Refactoring** to make the site appear unchanged on the *users* end but readable and unclutterd to editing *Developers*. **Refactoring** code for this task using **Semantic Elements** to reconstruct unnecessary code and defining different parts of a web page to clearly describe its intended meaning or function to browser and developer.
 
@@ -24,14 +24,14 @@ This task was focusing on the utilization of **Semantic Elements** while **Refac
 
 ## Example
 Here I condensed multiple lines into single lines for classes
- ![Site](.\assets\images\Css.png)
+ ![Css image](.\assets\images\Css.png)
 
 ## Resources
-[W3schools](https://www.w3schools.com/html/)
+<a href="https://www.w3schools.com/html/" target="_blank">W3schools</a>
 
-[GitHub Guide](https://guides.github.com/features/mastering-markdown/)
+<a href="https://guides.github.com/features/mastering-markdown/" target="_blank">GitHub Guide</a>
 #
 ## Author Links
-[LinkedIn](https://www.linkedin.com/in/johna-recio-83a024214/)
+<a href="https://www.linkedin.com/in/johna-recio-83a024214/" target="_blank">LinkedIn</a>
 
-[GitHub](https://github.com/RecioJ)
+<a href="https://github.com/RecioJ" target="_blank">GitHub</a>
