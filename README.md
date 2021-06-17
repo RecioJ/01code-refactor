@@ -24,7 +24,7 @@ This task was focusing on the utilization of **Semantic Elements** while **Refac
 
 ## Example
 Here I condensed multiple lines into single lines for classes
-<img src= ".\assets\images\css.png" alt= "css screenshot">
+<img src= "https://github.com/RecioJ/01code-refactor/blob/main/assets/images/Css.png?raw=true" alt= "css screenshot">
 
 ## Resources
 <a href="https://www.w3schools.com/html/" target="_blank">W3schools</a>
