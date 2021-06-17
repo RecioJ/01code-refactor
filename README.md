@@ -24,7 +24,7 @@ This task was focusing on the utilization of **Semantic Elements** while **Refac
 
 ## Example
 Here I condensed multiple lines into single lines for classes
- ![Css image](.\assets\images\Css.png)
+<img src= ".\assets\images\css.png" alt= "css screenshot">
 
 ## Resources
 <a href="https://www.w3schools.com/html/" target="_blank">W3schools</a>
